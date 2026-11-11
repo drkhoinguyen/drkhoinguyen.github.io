@@ -5,12 +5,20 @@
     <link>/tag/diffusion-models/</link>
       <atom:link href="/tag/diffusion-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Diffusion Models</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2026 11:36:27 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2026 09:30:00 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu_df3909c53f6eee5b.png</url>
       <title>Diffusion Models</title>
       <link>/tag/diffusion-models/</link>
     </image>
+    
+    <item>
+      <title>Cross-Space Distillation: Teaching One-Step Students with Modern Diffusion Teachers</title>
+      <link>/publication/cross-space-distillation/</link>
+      <pubDate>Sat, 11 Jul 2026 09:30:00 +0700</pubDate>
+      <guid>/publication/cross-space-distillation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SwiftPie: Lightning-fast Subject-driven Image Personalization via One step Diffusion</title>

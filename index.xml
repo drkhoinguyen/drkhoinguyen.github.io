@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Khoi Nguyen&#39;s Wesbite</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2026 11:36:27 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2026 09:15:28 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu_df3909c53f6eee5b.png</url>
       <title>Khoi Nguyen&#39;s Wesbite</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>ArtCrafter: Feed-Forward Generation of Articulated 3D Object with Analytic Joint Derivation</title>
+      <link>/publication/articulated-3d-mesh-generation/</link>
+      <pubDate>Wed, 11 Nov 2026 09:15:28 +0700</pubDate>
+      <guid>/publication/articulated-3d-mesh-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Space Distillation: Teaching One-Step Students with Modern Diffusion Teachers</title>
+      <link>/publication/cross-space-distillation/</link>
+      <pubDate>Sat, 11 Jul 2026 09:30:00 +0700</pubDate>
+      <guid>/publication/cross-space-distillation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SwiftPie: Lightning-fast Subject-driven Image Personalization via One step Diffusion</title>
@@ -384,6 +400,9 @@ To summarize what we have discussed so far on the first post, you can look at th
 
 
 
+&lt;p&gt;&lt;strong&gt;[11/26]&lt;/strong&gt; Three papers accepted to WACV 2027: Personalized Segmentation, Open-Vocab 3DGS Segmentation, Personalized Video Gen. Cheers!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[09/26]&lt;/strong&gt; One paper accepted to NeurIPS 2026: ArtCrafter. Cheers!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[07/26]&lt;/strong&gt; One paper accepted to ECCV 2026: Cross-Space Distillation. Cheers!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[05/26]&lt;/strong&gt; Two papers accepted to CVPR 2026: InverFill and SwiftPie (Findings). Cheers!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[06/25]&lt;/strong&gt; Two papers accepted to ICCV 2025: CSD-VAR, NASA. Cheers!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[02/25]&lt;/strong&gt; Three papers accepted to CVPR 2025: Any3DIS, SwiftEdit, SharpDepth. Cheers!&lt;/p&gt;

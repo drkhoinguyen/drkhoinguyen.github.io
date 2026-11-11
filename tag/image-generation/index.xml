@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image Generation | Khoi Nguyen&#39;s Wesbite</title>
+    <link>/tag/image-generation/</link>
+      <atom:link href="/tag/image-generation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image Generation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2026 09:30:00 +0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu_df3909c53f6eee5b.png</url>
+      <title>Image Generation</title>
+      <link>/tag/image-generation/</link>
+    </image>
+    
+    <item>
+      <title>Cross-Space Distillation: Teaching One-Step Students with Modern Diffusion Teachers</title>
+      <link>/publication/cross-space-distillation/</link>
+      <pubDate>Sat, 11 Jul 2026 09:30:00 +0700</pubDate>
+      <guid>/publication/cross-space-distillation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

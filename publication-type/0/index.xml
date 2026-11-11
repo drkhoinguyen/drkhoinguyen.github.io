@@ -20,13 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>GaPro: Box-Supervised 3D Point Cloud Instance Segmentation Using Gaussian Processes as Pseudo Labelers</title>
-      <link>/publication/box-supervised-3d-instance-segmentation/</link>
-      <pubDate>Sun, 23 Jul 2023 11:16:37 +0700</pubDate>
-      <guid>/publication/box-supervised-3d-instance-segmentation/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

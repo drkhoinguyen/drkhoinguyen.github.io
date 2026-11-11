@@ -5,12 +5,20 @@
     <link>/tag/diffusion/</link>
       <atom:link href="/tag/diffusion/index.xml" rel="self" type="application/rss+xml" />
     <description>Diffusion</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2024 10:43:57 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2026 09:15:28 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu_df3909c53f6eee5b.png</url>
       <title>Diffusion</title>
       <link>/tag/diffusion/</link>
     </image>
+    
+    <item>
+      <title>ArtCrafter: Feed-Forward Generation of Articulated 3D Object with Analytic Joint Derivation</title>
+      <link>/publication/articulated-3d-mesh-generation/</link>
+      <pubDate>Wed, 11 Nov 2026 09:15:28 +0700</pubDate>
+      <guid>/publication/articulated-3d-mesh-generation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models</title>
