@@ -5,12 +5,20 @@
     <link>/tag/semantic-segmentation/</link>
       <atom:link href="/tag/semantic-segmentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Semantic Segmentation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 10:20:49 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2026 08:57:28 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu_df3909c53f6eee5b.png</url>
       <title>Semantic Segmentation</title>
       <link>/tag/semantic-segmentation/</link>
     </image>
+    
+    <item>
+      <title>Prepare Lighter and Faster for Open-Vocabulary Queries: A Query-Wise 3D Segmenter for Gaussian Splatting</title>
+      <link>/publication/open-vocab-3dgs-segmentation/</link>
+      <pubDate>Thu, 19 Nov 2026 08:57:28 +0700</pubDate>
+      <guid>/publication/open-vocab-3dgs-segmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation</title>

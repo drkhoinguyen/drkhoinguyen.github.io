@@ -5,12 +5,20 @@
     <link>/tag/one-step/</link>
       <atom:link href="/tag/one-step/index.xml" rel="self" type="application/rss+xml" />
     <description>One-Step</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2026 11:24:28 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2026 11:36:27 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu_df3909c53f6eee5b.png</url>
       <title>One-Step</title>
       <link>/tag/one-step/</link>
     </image>
+    
+    <item>
+      <title>SwiftPie: Lightning-fast Subject-driven Image Personalization via One step Diffusion</title>
+      <link>/publication/one-step-image-personalization/</link>
+      <pubDate>Wed, 13 May 2026 11:36:27 +0700</pubDate>
+      <guid>/publication/one-step-image-personalization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting</title>

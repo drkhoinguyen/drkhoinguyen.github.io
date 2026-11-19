@@ -5,12 +5,20 @@
     <link>/tag/video-generation/</link>
       <atom:link href="/tag/video-generation/index.xml" rel="self" type="application/rss+xml" />
     <description>Video Generation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2024 10:43:57 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2026 09:04:14 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu_df3909c53f6eee5b.png</url>
       <title>Video Generation</title>
       <link>/tag/video-generation/</link>
     </image>
+    
+    <item>
+      <title>TokenStream: Multi-Subject Personalized Video Generation with Token-wise LoRA and Guided Attention</title>
+      <link>/publication/personalized-video-generation/</link>
+      <pubDate>Thu, 19 Nov 2026 09:04:14 +0700</pubDate>
+      <guid>/publication/personalized-video-generation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models</title>

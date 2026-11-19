@@ -5,12 +5,36 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Khoi Nguyen&#39;s Wesbite</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2026 09:15:28 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2026 09:10:07 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu_df3909c53f6eee5b.png</url>
       <title>Khoi Nguyen&#39;s Wesbite</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Where is My Mug? Training-Free Framework for Personalized Image Segmentation</title>
+      <link>/publication/personalized-object-segmentation/</link>
+      <pubDate>Thu, 19 Nov 2026 09:10:07 +0700</pubDate>
+      <guid>/publication/personalized-object-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TokenStream: Multi-Subject Personalized Video Generation with Token-wise LoRA and Guided Attention</title>
+      <link>/publication/personalized-video-generation/</link>
+      <pubDate>Thu, 19 Nov 2026 09:04:14 +0700</pubDate>
+      <guid>/publication/personalized-video-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prepare Lighter and Faster for Open-Vocabulary Queries: A Query-Wise 3D Segmenter for Gaussian Splatting</title>
+      <link>/publication/open-vocab-3dgs-segmentation/</link>
+      <pubDate>Thu, 19 Nov 2026 08:57:28 +0700</pubDate>
+      <guid>/publication/open-vocab-3dgs-segmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ArtCrafter: Feed-Forward Generation of Articulated 3D Object with Analytic Joint Derivation</title>
